@@ -1,583 +1,395 @@
 {
   "metadata": {
-    "siteName": "Fila Brasil",
-    "siteUrl": "https://www.fila.com.br/",
-    "extractionDate": "2024-07-09",
-    "version": "1.0",
+    "siteName": "",
+    "siteUrl": "",
+    "extractionDate": "",
+    "version": "",
     "viewport": {
-      "width": "device-width",
-      "initialScale": "1.0",
-      "maximumScale": "1.0",
-      "userScalable": "no"
+      "width": "",
+      "initialScale": "",
+      "maximumScale": "",
+      "userScalable": ""
     }
   },
   "brandIdentity": {
     "history": {
-      "foundingYear": "1911",
-      "origin": "Itália",
-      "evolution": "Começou como uma empresa de roupas para alpinismo, evoluiu para uma marca global de sportswear",
-      "currentPosition": "Marca global de sportswear com forte presença no Brasil"
+      "foundingYear": "",
+      "origin": "",
+      "evolution": "",
+      "currentPosition": ""
     },
     "positioning": {
-      "mission": "Oferecer produtos esportivos de qualidade que combinam estilo e performance",
-      "vision": "Ser reconhecida como uma marca icônica que une esporte e moda",
-      "values": [
-        "Autenticidade",
-        "Qualidade",
-        "Inovação",
-        "Estilo",
-        "Performance"
-      ],
-      "targetAudience": [
-        "Jovens adultos",
-        "Entusiastas de esportes",
-        "Corredores",
-        "Praticantes de tennis",
-        "Consumidores de moda esportiva"
-      ],
-      "marketSegment": "Sportswear e lifestyle",
-      "uniqueSellingPropositions": [
-        "Heritage italiano",
-        "Design atemporal",
-        "Combinação de esporte e moda",
-        "Tecnologia para performance"
-      ]
+      "mission": "",
+      "vision": "",
+      "values": [],
+      "targetAudience": [],
+      "marketSegment": "",
+      "uniqueSellingPropositions": []
     },
     "voice": {
       "characteristics": {
-        "tone": "Confiante e energético",
-        "personality": "Esportiva, moderna e acessível",
-        "style": "Direto e inspirador"
+        "tone": "",
+        "personality": "",
+        "style": ""
       },
       "communicationGuidelines": {
-        "doUse": [
-          "Linguagem clara",
-          "Tom energético",
-          "Referências ao esporte e estilo de vida ativo"
-        ],
-        "dontUse": [
-          "Gírias excessivas",
-          "Linguagem muito técnica",
-          "Tom elitista"
-        ],
-        "vocabulary": [
-          "Estilo",
-          "Performance",
-          "Conforto",
-          "Clássico",
-          "Esportivo",
-          "Lifestyle",
-          "Running",
-          "Heritage",
-          "Tecnologia"
-        ],
+        "doUse": [],
+        "dontUse": [],
+        "vocabulary": [],
         "examples": {
-          "headlines": [
-            "DESCUBRA O SEU ESTILO",
-            "PERFORMANCE E ESTILO",
-            "CLÁSSICOS ATEMPORAIS",
-            "FILA FOR RUNNING"
-          ],
-          "ctaCopy": [
-            "COMPRAR AGORA",
-            "DESCUBRA MAIS",
-            "VER COLEÇÃO",
-            "APROVEITAR",
-            "INSCREVA-SE",
-            "ESCOLHER O MEU"
-          ],
-          "productDescriptions": [
-            "Combina estilo clássico com tecnologia moderna",
-            "Conforto e performance para o seu dia a dia",
-            "Design atemporal com toques contemporâneos",
-            "Roupas e calçados de alta tecnologia"
-          ]
+          "headlines": [],
+          "ctaCopy": [],
+          "productDescriptions": []
         }
       },
       "writingStyle": {
-        "grammar": "Formal, mas acessível",
-        "punctuation": "Padrão, com uso ocasional de pontos de exclamação para enfatizar energia",
-        "capitalization": "Títulos e CTAs em maiúsculas, descrições em minúsculas com iniciais maiúsculas quando apropriado",
-        "formatting": "Textos curtos e diretos, com destaque para palavras-chave"
+        "grammar": "",
+        "punctuation": "",
+        "capitalization": "",
+        "formatting": ""
       }
     },
     "brandPersonality": {
-      "traits": [
-        "Esportiva",
-        "Clássica",
-        "Confiante",
-        "Autêntica",
-        "Contemporânea",
-        "Tecnológica"
-      ],
-      "emotionalAttributes": [
-        "Nostalgia",
-        "Confiança",
-        "Energia",
-        "Pertencimento",
-        "Superação"
-      ],
-      "brandPromise": "Unir performance esportiva com estilo atemporal",
-      "coreValues": [
-        "Qualidade",
-        "Autenticidade",
-        "Heritage",
-        "Inovação",
-        "Performance"
-      ]
+      "traits": [],
+      "emotionalAttributes": [],
+      "brandPromise": "",
+      "coreValues": []
     },
     "logo": {
       "primary": {
-        "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11094/7504437f-878b-49d5-ac61-4c93e5389364",
-        "usage": "Deve ser usado em sua forma original sempre que possível",
-        "minSize": "75px de altura",
-        "clearSpace": "Espaço livre equivalente à altura da letra 'F' ao redor do logo"
+        "url": "",
+        "usage": "",
+        "minSize": "",
+        "clearSpace": ""
       },
       "variations": [
         {
-          "type": "Horizontal",
-          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11094/7504437f-878b-49d5-ac61-4c93e5389364",
-          "usage": "Uso principal em todos os materiais"
-        },
-        {
-          "type": "Favicon",
-          "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/fila-store/01f8a333-0be9-432a-9a8d-973fe2483647/F-BoxPreto.svg",
-          "usage": "Para uso em navegadores e aplicações digitais"
+          "type": "",
+          "url": "",
+          "usage": ""
         }
       ],
       "restrictions": {
-        "doUse": [
-          "Manter proporções originais",
-          "Garantir contraste adequado com o fundo",
-          "Respeitar área de proteção"
-        ],
-        "dontUse": [
-          "Distorcer o logo",
-          "Alterar as cores",
-          "Adicionar efeitos",
-          "Usar sobre fundos que comprometam a legibilidade"
-        ]
+        "doUse": [],
+        "dontUse": []
       },
       "colorVersions": {
-        "fullColor": "#041E40 (azul marinho)",
-        "oneColor": "#041E40 (azul marinho)",
-        "reverseColor": "#FFFFFF (branco)"
+        "fullColor": "",
+        "oneColor": "",
+        "reverseColor": ""
       }
     }
   },
   "designSystem": {
-    "colorScheme": "light",
+    "colorScheme": "",
     "colors": {
       "main": {
-        "base": "#FFFFFF",
-        "primary": "#041E40",
-        "secondary": "#E21836",
-        "accent": "#FFC107",
-        "neutral": "#F5F5F5",
-        "success": "#28A745",
-        "warning": "#FFC107",
-        "error": "#E21836",
-        "info": "#17A2B8"
+        "base": "",
+        "primary": "",
+        "secondary": "",
+        "accent": "",
+        "neutral": "",
+        "success": "",
+        "warning": "",
+        "error": "",
+        "info": ""
       },
       "complementary": {
-        "base200": "#F8F9FA",
-        "base300": "#E9ECEF",
-        "baseContent": "#212529",
-        "primaryContent": "#FFFFFF",
-        "secondaryContent": "#FFFFFF",
-        "accentContent": "#000000",
-        "neutralContent": "#000000",
-        "successContent": "#FFFFFF",
-        "warningContent": "#000000",
-        "errorContent": "#FFFFFF",
-        "infoContent": "#FFFFFF"
+        "base200": "",
+        "base300": "",
+        "baseContent": "",
+        "primaryContent": "",
+        "secondaryContent": "",
+        "accentContent": "",
+        "neutralContent": "",
+        "successContent": "",
+        "warningContent": "",
+        "errorContent": "",
+        "infoContent": ""
       }
     },
     "button": {
-      "borderWidth": "1px",
-      "radius": "4px",
-      "clickScale": "0.98",
-      "clickDuration": "100ms"
+      "borderWidth": "",
+      "radius": "",
+      "clickScale": "",
+      "clickDuration": ""
     },
     "styles": {
-      "roundedBox": "1rem",
-      "roundedBadge": "1.9rem",
-      "animationInput": "0.2s",
-      "tabBorder": "1px",
-      "tabRadius": "0.5rem"
+      "roundedBox": "",
+      "roundedBadge": "",
+      "animationInput": "",
+      "tabBorder": "",
+      "tabRadius": ""
     },
     "font": {
-      "googleFonts": ["Albert Sans", "Open Sans"]
+      "googleFonts": []
     },
     "typography": {
       "fonts": {
         "primary": {
-          "family": "Albert Sans",
-          "weights": ["400", "500", "700"]
+          "family": "",
+          "weights": []
         },
         "secondary": {
-          "family": "Open Sans",
-          "weights": ["400", "600"]
+          "family": "",
+          "weights": []
         }
       },
       "fontSize": {
-        "desktop": "16px",
-        "tablet": "14px",
-        "mobile": "14px"
+        "desktop": "",
+        "tablet": "",
+        "mobile": ""
       },
-      "lineHeight": "1.5",
-      "letterSpacing": "0.025em"
+      "lineHeight": "",
+      "letterSpacing": ""
     },
     "spacing": {
-      "unit": "4px",
-      "scale": ["4px", "8px", "12px", "16px", "24px", "32px", "48px", "64px"]
+      "unit": "",
+      "scale": []
     },
     "borders": {
       "width": {
-        "thin": "1px",
-        "medium": "2px",
-        "thick": "4px"
+        "thin": "",
+        "medium": "",
+        "thick": ""
       },
       "style": {
-        "solid": "solid",
-        "dashed": "dashed",
-        "dotted": "dotted"
+        "solid": "",
+        "dashed": "",
+        "dotted": ""
       },
       "radius": {
-        "none": "0",
-        "sm": "0.125rem",
-        "md": "0.375rem",
-        "lg": "0.5rem",
-        "full": "9999px"
+        "none": "",
+        "sm": "",
+        "md": "",
+        "lg": "",
+        "full": ""
       }
     },
     "shadows": {
-      "sm": "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
-      "md": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
-      "lg": "0 10px 15px -3px rgba(0, 0, 0, 0.1)",
-      "xl": "0 20px 25px -5px rgba(0, 0, 0, 0.1)",
-      "inner": "inset 0 2px 4px 0 rgba(0, 0, 0, 0.06)"
+      "sm": "",
+      "md": "",
+      "lg": "",
+      "xl": "",
+      "inner": ""
     },
     "breakpoints": {
-      "sm": "640px",
-      "md": "768px",
-      "lg": "1024px",
-      "xl": "1280px",
-      "2xl": "1536px",
+      "sm": "",
+      "md": "",
+      "lg": "",
+      "xl": "",
+      "2xl": "",
       "maxWidths": {
-        "container": "1280px",
-        "content": "65ch"
+        "container": "",
+        "content": ""
       }
     },
     "effects": {
       "transition": {
-        "duration": "150ms",
-        "timing": "ease-in-out"
+        "duration": "",
+        "timing": ""
       },
       "opacity": {
-        "hover": "0.8",
-        "disabled": "0.5"
+        "hover": "",
+        "disabled": ""
       },
       "blur": {
-        "sm": "4px",
-        "md": "8px",
-        "lg": "16px"
+        "sm": "",
+        "md": "",
+        "lg": ""
       }
     },
     "components": {
       "button": {
         "variants": {
           "primary": {
-            "background": "#041E40",
-            "text": "#FFFFFF",
-            "border": "none"
+            "background": "",
+            "text": "",
+            "border": ""
           },
           "secondary": {
-            "background": "#E21836",
-            "text": "#FFFFFF",
-            "border": "none"
+            "background": "",
+            "text": "",
+            "border": ""
           },
           "outline": {
-            "background": "transparent",
-            "text": "#041E40",
-            "border": "1px solid #041E40"
+            "background": "",
+            "text": "",
+            "border": ""
           }
         },
         "sizes": {
           "sm": {
-            "padding": "0.5rem 1rem",
-            "fontSize": "0.875rem"
+            "padding": "",
+            "fontSize": ""
           },
           "md": {
-            "padding": "0.75rem 1.5rem",
-            "fontSize": "1rem"
+            "padding": "",
+            "fontSize": ""
           },
           "lg": {
-            "padding": "1rem 2rem",
-            "fontSize": "1.125rem"
+            "padding": "",
+            "fontSize": ""
           }
         }
       },
       "input": {
         "variants": {
           "outline": {
-            "border": "1px solid",
-            "borderColor": "#DEE2E6",
-            "borderRadius": "0.375rem"
+            "border": "",
+            "borderColor": "",
+            "borderRadius": ""
           },
           "filled": {
-            "background": "#F8F9FA",
-            "border": "none",
-            "borderRadius": "0.375rem"
+            "background": "",
+            "border": "",
+            "borderRadius": ""
           }
         },
         "states": {
           "focus": {
-            "borderColor": "#041E40",
-            "shadow": "0 0 0 3px rgba(4, 30, 64, 0.1)"
+            "borderColor": "",
+            "shadow": ""
           },
           "error": {
-            "borderColor": "#E21836",
-            "background": "#FFF5F5"
+            "borderColor": "",
+            "background": ""
           }
         }
       }
     },
     "animations": {
       "duration": {
-        "fast": "150ms",
-        "normal": "300ms",
-        "slow": "500ms"
+        "fast": "",
+        "normal": "",
+        "slow": ""
       },
       "easing": {
-        "linear": "linear",
-        "ease": "ease",
-        "easeIn": "ease-in",
-        "easeOut": "ease-out"
+        "linear": "",
+        "ease": "",
+        "easeIn": "",
+        "easeOut": ""
       }
     }
   },
   "photography": {
     "style": {
-      "lighting": "Natural, bem iluminado, com contraste moderado",
-      "composition": "Limpa, com foco claro no produto ou na atividade esportiva",
-      "colorTreatment": "Cores vibrantes mas naturais, com ênfase nas cores da marca (azul marinho e vermelho)",
-      "filters": "Mínimos, mantendo a autenticidade das imagens"
+      "lighting": "",
+      "composition": "",
+      "colorTreatment": "",
+      "filters": ""
     },
     "categories": {
       "product": {
-        "guidelines": "Produtos fotografados em fundo branco ou neutro, com iluminação uniforme",
-        "angles": ["Frontal", "Lateral", "Detalhe", "Em uso", "Vista superior"],
-        "lighting": "Difusa, sem sombras duras",
-        "background": "Branco ou neutro, sem distrações"
+        "guidelines": "",
+        "angles": [],
+        "lighting": "",
+        "background": ""
       },
       "lifestyle": {
-        "guidelines": "Pessoas reais em ambientes naturais ou urbanos, praticando esportes ou em situações casuais",
-        "mood": "Energético, autêntico, inspirador",
-        "scenarios": [
-          "Corrida",
-          "Tennis",
-          "Beach Tennis",
-          "Treino",
-          "Momentos casuais",
-          "Ambientes urbanos",
-          "Natureza"
-        ],
-        "composition": "Dinâmica, com movimento e energia"
+        "guidelines": "",
+        "mood": "",
+        "scenarios": [],
+        "composition": ""
       },
       "editorial": {
-        "guidelines": "Composições mais artísticas para campanhas e lookbooks",
-        "style": "Contemporâneo com referências ao heritage da marca",
-        "formats": [
-          "Horizontal para banners",
-          "Vertical para mobile",
-          "Quadrado para redes sociais"
-        ]
+        "guidelines": "",
+        "style": "",
+        "formats": []
       }
     },
     "technicalRequirements": {
-      "resolution": "Mínimo de 72dpi para web, 300dpi para impressão",
-      "formats": ["JPG", "PNG", "WebP"],
-      "colorSpace": "sRGB para digital, CMYK para impressão",
-      "compression": "Otimizada para web sem perda visível de qualidade"
+      "resolution": "",
+      "formats": [],
+      "colorSpace": "",
+      "compression": ""
     }
   },
   "iconography": {
     "style": {
-      "strokeWidth": "2px",
-      "corners": "Retos",
-      "terminals": "Retos"
+      "strokeWidth": "",
+      "corners": "",
+      "terminals": ""
     },
     "grid": {
-      "size": "24x24px",
-      "padding": "2px"
+      "size": "",
+      "padding": ""
     },
     "categories": {
-      "navigation": [
-        "Menu",
-        "Busca",
-        "Carrinho",
-        "Usuário",
-        "Favoritos",
-        "Ajuda"
-      ],
-      "actions": [
-        "Adicionar",
-        "Remover",
-        "Editar",
-        "Compartilhar",
-        "Filtrar",
-        "Seta"
-      ],
-      "status": ["Sucesso", "Erro", "Alerta", "Informação", "Processando"]
+      "navigation": [],
+      "actions": [],
+      "status": []
     },
     "technical": {
-      "formats": ["SVG", "PNG"],
-      "sizes": ["16x16px", "24x24px", "32x32px"],
-      "colorization": "Monocromático, usando as cores primárias do sistema"
+      "formats": [],
+      "sizes": [],
+      "colorization": ""
     }
   },
   "usageGuidelines": {
     "digital": {
       "web": {
         "responsive": {
-          "principles": [
-            "Mobile-first",
-            "Conteúdo flexível",
-            "Breakpoints consistentes"
-          ],
-          "breakpoints": [
-            "576px (sm)",
-            "768px (md)",
-            "1024px (lg)",
-            "1200px (xl)"
-          ]
+          "principles": [],
+          "breakpoints": []
         },
         "performance": {
-          "imageOptimization": "Usar WebP quando possível, com fallback para JPG",
-          "loadingStrategies": [
-            "Lazy loading para imagens",
-            "Carregamento progressivo",
-            "Priorização de conteúdo acima da dobra"
-          ]
+          "imageOptimization": "",
+          "loadingStrategies": []
         },
         "accessibility": {
-          "standards": "WCAG 2.1 AA",
-          "requirements": [
-            "Contraste adequado",
-            "Textos alternativos",
-            "Navegação por teclado"
-          ],
-          "bestPractices": [
-            "Estrutura semântica",
-            "Foco visível",
-            "Mensagens de erro claras"
-          ]
+          "standards": "",
+          "requirements": [],
+          "bestPractices": []
         }
       },
       "mobile": {
-        "appGuidelines": [
-          "Seguir padrões nativos da plataforma",
-          "Manter consistência com a web",
-          "Otimizar para toque"
-        ],
-        "touchTargets": "Mínimo de 44x44px para áreas tocáveis",
-        "gestures": ["Tap", "Swipe", "Pinch to zoom"]
+        "appGuidelines": [],
+        "touchTargets": "",
+        "gestures": []
       },
       "email": {
-        "templates": ["Newsletter", "Transacional", "Promocional"],
-        "restrictions": [
-          "Evitar CSS complexo",
-          "Usar tabelas para layout",
-          "Limitar uso de imagens"
-        ]
+        "templates": [],
+        "restrictions": []
       }
     },
     "print": {
       "materials": {
-        "recommended": ["Papel couché", "Papel offset premium"],
-        "restricted": ["Papéis muito finos", "Superfícies muito brilhantes"]
+        "recommended": [],
+        "restricted": []
       },
       "finishes": {
-        "preferred": ["Verniz localizado", "Laminação fosca"],
-        "optional": ["Hot stamping", "Relevo"]
+        "preferred": [],
+        "optional": []
       },
       "colorProfiles": {
-        "cmyk": "Coated FOGRA39",
-        "pantone": ["PMS 289 C (azul)", "PMS 186 C (vermelho)"]
+        "cmyk": "",
+        "pantone": []
       }
     },
     "restrictions": {
-      "doGuidelines": [
-        "Manter a integridade do logo",
-        "Usar as cores oficiais da marca",
-        "Seguir a hierarquia tipográfica",
-        "Respeitar os espaçamentos do grid"
-      ],
-      "dontGuidelines": [
-        "Distorcer o logo",
-        "Usar cores não aprovadas",
-        "Misturar estilos fotográficos",
-        "Criar novos componentes sem aprovação"
-      ],
-      "legalRequirements": [
-        "Incluir ® no logo em materiais oficiais",
-        "Respeitar direitos autorais de imagens",
-        "Seguir regulamentações locais para e-commerce"
-      ],
-      "licensing": "Todos os elementos da marca são propriedade da Fila e não podem ser usados sem autorização"
+      "doGuidelines": [],
+      "dontGuidelines": [],
+      "legalRequirements": [],
+      "licensing": ""
     }
   },
   "contentStrategy": {
-    "principles": [
-      "Clareza e objetividade",
-      "Foco no benefício para o usuário",
-      "Consistência de tom e voz",
-      "Relevância para o público-alvo",
-      "Destaque para tecnologia e performance"
-    ],
+    "principles": [],
     "messaging": {
-      "hierarchy": "Benefício > Características > Detalhes técnicos",
-      "structure": "Títulos chamativos, descrições concisas, CTAs claros",
-      "priorities": [
-        "Valor da marca",
-        "Benefícios do produto",
-        "Características técnicas",
-        "História e heritage"
-      ]
+      "hierarchy": "",
+      "structure": "",
+      "priorities": []
     },
     "seo": {
-      "guidelines": [
-        "Usar palavras-chave relevantes naturalmente no conteúdo",
-        "Criar meta descriptions únicas e descritivas",
-        "Otimizar imagens com alt text adequado"
-      ],
-      "keywords": [
-        "Fila",
-        "Tênis",
-        "Sportswear",
-        "Moda esportiva",
-        "Lifestyle",
-        "Heritage",
-        "Running",
-        "Corrida",
-        "Beach Tennis",
-        "Tennis"
-      ],
-      "metadata": "Títulos únicos por página, descrições entre 120-155 caracteres"
+      "guidelines": [],
+      "keywords": [],
+      "metadata": ""
     },
     "localization": {
-      "languages": ["Português (Brasil)"],
-      "culturalConsiderations": [
-        "Adaptar campanhas globais ao contexto brasileiro",
-        "Considerar calendário local de eventos e datas comemorativas",
-        "Respeitar particularidades culturais brasileiras"
-      ],
-      "adaptations": [
-        "Ajustar terminologia para o português brasileiro",
-        "Adaptar preços e promoções ao mercado local",
-        "Considerar clima e sazonalidade brasileira"
-      ]
+      "languages": [],
+      "culturalConsiderations": [],
+      "adaptations": []
     }
   }
 }
